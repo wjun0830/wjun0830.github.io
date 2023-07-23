@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WonJun's Homepage"
+title                    : "WonJunMoon Homepage"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "WonJun Moon"
-description              : "Personal webpage for WonJun Moon."
+description              : "Personal homepage for WonJun Moon."
 url                      : "https://wjun0830.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "56880c75b977f327616fc80b407b27d9a2fa4d22"
 yandex_site_verification :
 baidu_site_verification  :
 
