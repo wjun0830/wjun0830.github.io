@@ -9,22 +9,50 @@ order: 1
 ---
 
 Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
-I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer">[Visual Computing LABoratory]</a> advised by Prof. Jae-Pil Heo.
-My research interests lie in computer vision and deep learning. Recently, I am mostly interested in Multi-modal Learning, e.g., Video Highlight Detection and Text-to-Video Retrieval. My other interests lie in Representation Learning, Open Set Recognition, Out-of-Distribution Detection, Semi-Supervised Learning , Data Augmentation, Few-shot Learning, Object Detection, Semantic Segmentation, and Long-Tailed Recognition.
+I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
+My current research interests lie in Video Understanding and Multi-modal Learning.
+Specifically, I am mostly interested in Temporal Grounding (Moment Retrieval), Video Retrieval, and Referring Video Object Segmentation.
+Besides, my other interests are Representation Learning, Image/Video Segmentation, Object Detection, Open Set Recognition, Semi-Supervised Learning, Few-Shot Learning, and Long-Tailed Recognition.
+<!-- My research interests lie in video computer vision and multi-modal . Recently, I am mostly interested in Multi-modal Learning, e.g., Video Highlight Detection and Text-to-Video Retrieval. My other interests lie in Representation Learning, Open Set Recognition, Out-of-Distribution Detection, Semi-Supervised Learning , Data Augmentation, Few-shot Learning, Object Detection, Semantic Segmentation, and Long-Tailed Recognition. -->
 
-## News
-
+<!-- ## News -->
+<!-- * (2024. 01) 2023 President's List, Sungkyunkwan University.
+* (2023. 12) 1 paper accepted to AAAI 2024.
 * (2023. 05) Selected as an 18th scholarship student of the Gwanjeong Educational Foundation.
 * (2023. 03) 2 papers accepted to CVPR 2023.
 * (2022. 11) 1 paper accepted to AAAI 2023.
 * (2022. 07) 2 papers accepted to ECCV 2022.
 * (2022. 03) 1 paper accepted to CVPR 2022.
-* (2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Selected/Funded as a good research team.
+* (2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Selected/Funded as a good research team. -->
 
 ## Publications
 (&#42; &#58; equal contribution)
 ### International
 <table class="table table-sm table-borderless">
+
+<tr>
+<th scope="row"> arXiv 2024 </th>
+<td> Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding
+<br> 
+<a href="https://arxiv.org/abs/2311.08835" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href=" " target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span></a> -->
+<a href="https://github.com/wjun0830/CGDETR" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> 
+<!-- <a href="https://www.youtube.com/watch?v=df-gtJcZEw8&t=301s" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Video] </span></a>  -->
+</td>
+<td> <u>WonJun Moon</u>, Sangeek Hyun, SuBeen Lee, Jae-Pil Heo </td> 
+</tr>
+
+<tr>
+<th scope="row"> AAAI 2024 </th>
+<td> VLCounter: Text-aware Visual Representation for Zero-Shot Object Counting
+<br> 
+<a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> Seunggu Kang, <u>WonJun Moon</u>, Euiyeon Kim, Jae-Pil Heo </td>
+</tr>
+
 <tr>
 <th scope="row"> CVPR 2023 </th>
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
@@ -121,10 +149,14 @@ My research interests lie in computer vision and deep learning. Recently, I am m
 </table>
 
 ## Experience & Achievements
+* Research Intern in Naver Cloud, hosted by <a href="https://scholar.google.co.kr/citations?user=42dUnrgAAAAJ&hl=ko" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Minho Shim</span></a> (Oct. 2023 - Mar. 2024)
+* 2023 President's List, <a href="https://www.skku.edu/eng/index.do" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Sungkyunkwan University</span></a>
+* 18th Scholarship student of the <a href="https://www.ikef.or.kr/" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Kwanjeong Educational Foundation</span></a>
 
-* 18th Scholarship student of the Kwanjeong Educational Foundation
-* 2023 ICCV Reviewer
-* 2023, 2022 CVPR Reviewer
+## Reviewer
+* CVPR'22,23,24
+* ICCV'23
+* ECCV'24
 
 ## Education
 
