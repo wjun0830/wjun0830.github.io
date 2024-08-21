@@ -57,7 +57,7 @@ Besides, my other interests are Representation Learning, Image/Video Segmentatio
 
 <tr>
 <th scope="row"> arXiv 2024 </th>
-<td> Correlation-Guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding
+<td> Correlation-Guided Query-Dependency Calibration for Video Temporal Grounding
 <br> 
 <a href="https://arxiv.org/abs/2311.08835" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href=" " target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span></a> -->
