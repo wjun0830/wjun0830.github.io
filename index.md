@@ -10,29 +10,54 @@ order: 1
 
 Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
 I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
-My current research interests lie in Video Understanding and Multi-modal Learning.
-Specifically, I am mostly interested in Temporal Grounding (Moment Retrieval), Video Retrieval, and Referring Video Object Segmentation.
+My current research interests primarily lie in Video Understanding and Multi-modal Learning.
+Specifically, I am mostly interested in Temporal Grounding (Moment Retrieval), Video Retrieval, and Object Segmentation.
 Besides, my other interests are Representation Learning, Image/Video Segmentation, Object Detection, Open Set Recognition, Semi-Supervised Learning, Few-Shot Learning, and Long-Tailed Recognition.
-<!-- My research interests lie in video computer vision and multi-modal . Recently, I am mostly interested in Multi-modal Learning, e.g., Video Highlight Detection and Text-to-Video Retrieval. My other interests lie in Representation Learning, Open Set Recognition, Out-of-Distribution Detection, Semi-Supervised Learning , Data Augmentation, Few-shot Learning, Object Detection, Semantic Segmentation, and Long-Tailed Recognition. -->
+
 
 <!-- ## News -->
 <!-- * (2024. 01) 2023 President's List, Sungkyunkwan University.
+* (2024. 07) 2 papers accepted to ECCV 2024.
 * (2023. 12) 1 paper accepted to AAAI 2024.
 * (2023. 05) Selected as an 18th scholarship student of the Gwanjeong Educational Foundation.
 * (2023. 03) 2 papers accepted to CVPR 2023.
-* (2022. 11) 1 paper accepted to AAAI 2023.
+<!-- * (2022. 11) 1 paper accepted to AAAI 2023.
 * (2022. 07) 2 papers accepted to ECCV 2022.
 * (2022. 03) 1 paper accepted to CVPR 2022.
-* (2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Selected/Funded as a good research team. -->
+* (2021) AI Challenge hosted by Ministry of Science and ICT, South Korea : Selected/Funded as a good research team.  -->
+
 
 ## Publications
-(&#42; &#58; equal contribution)
+<p style="font-size:15px"> (&#42; &#58; equal contribution) </p>
+
 ### International
 <table class="table table-sm table-borderless">
 
 <tr>
+<th scope="row"> ECCV 2024 </th>
+<td> Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation
+<br> 
+<a href="https://arxiv.org/abs/2407.12463" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<a href="https://github.com/hynnsk/PPAP" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> ECCV 2024 </th>
+<td> Mitigating Background Shift in Class-Incremental Semantic Segmentation
+<br> 
+<a href="https://arxiv.org/abs/2407.11859" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<a href="https://github.com/RoadoneP/ECCV2024_MBS" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> Gilhan Park, <u>WonJun Moon</u>, SuBeen Lee, Tae-Young Kim, Jae-Pil Heo </td>
+</tr>
+
+<tr>
 <th scope="row"> arXiv 2024 </th>
-<td> Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding
+<td> Correlation-Guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding
 <br> 
 <a href="https://arxiv.org/abs/2311.08835" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href=" " target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span></a> -->
