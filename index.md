@@ -37,9 +37,9 @@ Besides, my other interests are Representation Learning, Image/Video Segmentatio
 <th scope="row"> AAAI 2025 </th>
 <td> Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval
 <br> 
-<a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
 <td> Cheol-Ho Cho, <u>WonJun Moon</u>, Woojin Jun, MinSeok Jung, Jae-Pil Heo</td>
 </tr>
@@ -48,9 +48,9 @@ Besides, my other interests are Representation Learning, Image/Video Segmentatio
 <th scope="row"> AAAI 2025 </th>
 <td> Bridging the Semantic Granularity Gap Between Text and Frame Representations for Partially Relevant Video Retrieval
 <br> 
-<a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
 <td> Woojin Jun, <u>WonJun Moon</u>, Cheol-Ho Cho, MinSeok Jung, Jae-Pil Heo</td>
 </tr>
