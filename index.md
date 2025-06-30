@@ -34,12 +34,45 @@ Besides, my other interests are Representation Learning, Image/Video Segmentatio
 <table class="table table-sm table-borderless">
 
 <tr>
+<th scope="row"> ICCV 2025 </th>
+<td> Selective Contrastive Learning for Weakly Supervised Affordance Grounding
+<br> 
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> <u>WonJun Moon<sup>&#42;</sup></u>, Hyun Seok Seong<sup>&#42;</sup>, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> ICCV 2025 </th>
+<td> Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval
+<br> 
+<a href="https://arxiv.org/abs/2504.13035" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> <u>WonJun Moon</u>, Cheol-Ho Cho, Woojin Jun, Minho Shim, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> CVPR 2025 (<b>oral</b>)</th>
+<td> Temporal Alignment-Free Video Matching for Few-shot Action Recognition
+<br> 
+<a href="https://arxiv.org/abs/2504.05956" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Temporal_Alignment-Free_Video_Matching_for_Few-shot_Action_Recognition_CVPR_2025_paper.html" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="https://github.com/leesb7426/TEAM" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> SuBeen Lee, <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+</tr>
+
+<tr>
 <th scope="row"> AAAI 2025 </th>
 <td> Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval
 <br> 
-<!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://www.arxiv.org/abs/2506.07471" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<!-- <a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
 <td> Cheol-Ho Cho, <u>WonJun Moon</u>, Woojin Jun, MinSeok Jung, Jae-Pil Heo</td>
 </tr>
@@ -48,12 +81,24 @@ Besides, my other interests are Representation Learning, Image/Video Segmentatio
 <th scope="row"> AAAI 2025 </th>
 <td> Bridging the Semantic Granularity Gap Between Text and Frame Representations for Partially Relevant Video Retrieval
 <br> 
-<!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/32437" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<!-- <a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
 <td> Woojin Jun, <u>WonJun Moon</u>, Cheol-Ho Cho, MinSeok Jung, Jae-Pil Heo</td>
 </tr>
+
+<tr>
+<th scope="row"> TPAMI 2024 </th>
+<td> Task-oriented channel attention for fine-grained few-shot classification
+<br> 
+<a href="https://arxiv.org/abs/2308.00093" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/10763467" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<!-- <a href="https://github.com/leesb7426/TEAM" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> SuBeen Lee, <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+</tr>
+
 
 <tr>
 <th scope="row"> ECCV 2024 </th>
