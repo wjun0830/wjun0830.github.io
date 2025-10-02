@@ -11,8 +11,8 @@ order: 1
 Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
 I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
 My current research interests primarily lie in Video Understanding and Multi-modal Learning.
-Specifically, I am mostly interested in Temporal Grounding (Moment Retrieval), Video Retrieval, and Object Segmentation.
-Besides, my other interests are Representation Learning, Image/Video Segmentation, Object Detection, Open Set Recognition, Semi-Supervised Learning, Few-Shot Learning, and Long-Tailed Recognition.
+Most recently, I am interested in Video Object-Centric Learning to establish efficient video representations.
+Besides, my other interests include Video Retrieval, Representation Learning, Segmentation, and Few-Shot Learning.
 
 
 <!-- ## News -->
