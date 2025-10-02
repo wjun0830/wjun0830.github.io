@@ -34,12 +34,23 @@ Besides, my other interests are Representation Learning, Image/Video Segmentatio
 <table class="table table-sm table-borderless">
 
 <tr>
+<th scope="row"> NeurIPS 2025 </th>
+<td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
+<br> 
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> <u>WonJun Moon<sup>&#42;</sup></u>, MinSeok Jung<sup>&#42;</sup>, Gilhan Park, Tae-Young Kim, Cheol-Ho Cho, Woojin Jun, Jae-Pil Heo </td>
+</tr>
+
+<tr>
 <th scope="row"> ICCV 2025 </th>
 <td> Selective Contrastive Learning for Weakly Supervised Affordance Grounding
 <br> 
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
+<a href="https://arxiv.org/abs/2508.07877" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://github.com/hynnsk/SelectiveCL" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> <u>WonJun Moon<sup>&#42;</sup></u>, Hyun Seok Seong<sup>&#42;</sup>, Jae-Pil Heo </td>
 </tr>
