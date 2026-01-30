@@ -48,9 +48,9 @@ Besides, my other interests include Video Retrieval, Representation Learning, Se
 <th scope="row"> NeurIPS 2025 </th>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://arxiv.org/abs/2510.27432" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://openreview.net/attachment?id=Wlpf0Vg4yU&name=pdf" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="https://github.com/admins97/MSC_PRVR" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> <u>WonJun Moon<sup>&#42;</sup></u>, MinSeok Jung<sup>&#42;</sup>, Gilhan Park, Tae-Young Kim, Cheol-Ho Cho, Woojin Jun, Jae-Pil Heo </td>
 </tr>
