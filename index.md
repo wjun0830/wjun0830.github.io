@@ -34,7 +34,7 @@ Besides, my other interests include Video Retrieval, Representation Learning, Se
 <table class="table table-sm table-borderless">
 
 <tr>
-<th scope="row"> ICCV 2025 </th>
+<th scope="row"> ICLR 2026 </th>
 <td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
 <br> 
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
