@@ -7,10 +7,10 @@ order: 1
 # toc_label: Index
 
 ---
-
-Hello. I'm WonJun Moon, a Ph.D. candidate at Sungkyunkwan university, South Korea.
-I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
-My current research interests primarily lie in Video Understanding and Multi-modal Learning.
+Hello. I'm WonJun Moon, a postdoctoral researcher at KAIST, South Korea.<br>
+I received my Ph.D. from Sungkyunkwan University under the supervision of Prof. <a href="https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.<br>
+Currently, I am a member of the <a href="https://cvlab.kaist.ac.kr/" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Computer Vision Lab</span></a> advised by Prof. <span style="color:#6AADC2">Seungryong Kim</span>.
+My research interests primarily lie in Video Understanding and Multi-modal Learning.
 Most recently, I am interested in Video Object-Centric Learning to establish efficient video representations.
 Besides, my other interests include Video Retrieval, Representation Learning, Segmentation, and Few-Shot Learning.
 
