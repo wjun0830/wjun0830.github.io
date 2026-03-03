@@ -33,13 +33,58 @@ Besides, my other interests include Video Retrieval, Representation Learning, Se
 ### International
 <table class="table table-sm table-borderless">
 
+<!-- <tr>
+<th scope="row"> Venue </th>
+<td> Title
+<br> 
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
+</tr> -->
+
+
+<tr>
+<th scope="row"> CVPR 2026 </th>
+<td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
+<br> 
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> CVPR 2026 </th>
+<td> Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
+<br> 
+<a href="https://arxiv.org/abs/2512.02487" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> Yerim Jeon, Miso Lee, <u>WonJun Moon</u>, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> CVPR 2026 </th>
+<td> Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation
+<br> 
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, <u>WonJun Moon</u>, Jae-Pil Heo </td>
+</tr>
+
 <tr>
 <th scope="row"> ICLR 2026 </th>
 <td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
 <br> 
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
+<a href="https://arxiv.org/abs/2602.03390" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://openreview.net/forum?id=bWoT6Z21rH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://github.com/hynnsk/SRL" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
 </tr>
