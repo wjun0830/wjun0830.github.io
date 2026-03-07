@@ -8,11 +8,12 @@ order: 1
 
 ---
 
+
 Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
-I am a member of <a href="https://sites.google.com/site/vclabskku/intro?authuser=0" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
-My current research interests primarily lie in Video Understanding and Multi-modal Learning.
-Most recently, I am interested in Video Object-Centric Learning to establish efficient video representations.
-Besides, my other interests include Video Retrieval, Representation Learning, Segmentation, and Few-Shot Learning.
+I am a member of <a href="[https://sites.google.com/site/vclabskku/intro?authuser=0](https://sites.google.com/site/vclabskku/intro?authuser=0)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="[https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ](https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
+My research goal is to build holistic video understanding AI for real-world environments.
+Specifically, my research centers on representation learning for videos, especially in settings involving multimodal ambiguity, temporal complexity, and weak supervision. By combining object-centric learning, video-language modeling, and robust learning under limited supervision, I aim to build practical and transferable foundations for next-generation video AI.
+
 
 
 <!-- ## News -->
@@ -33,13 +34,69 @@ Besides, my other interests include Video Retrieval, Representation Learning, Se
 ### International
 <table class="table table-sm table-borderless">
 
+<!-- <tr>
+<th scope="row"> Venue </th>
+<td> Title
+<br> 
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
+</tr> -->
+
+
+<tr>
+<th scope="row"> CVPR 2026 </th>
+<td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
+<br> 
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> CVPR 2026 </th>
+<td> Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
+<br> 
+<a href="https://arxiv.org/abs/2512.02487" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> Yerim Jeon, Miso Lee, <u>WonJun Moon</u>, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> CVPR 2026 </th>
+<td> Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation
+<br> 
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+</td>
+<td> ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, <u>WonJun Moon</u>, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"> ICLR 2026 </th>
+<td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
+<br> 
+<a href="https://arxiv.org/abs/2602.03390" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://openreview.net/forum?id=bWoT6Z21rH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="https://github.com/hynnsk/SRL" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
+</tr>
+
 <tr>
 <th scope="row"> NeurIPS 2025 </th>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://arxiv.org/abs/2510.27432" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://openreview.net/attachment?id=Wlpf0Vg4yU&name=pdf" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
+<a href="https://github.com/admins97/MSC_PRVR" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> <u>WonJun Moon<sup>&#42;</sup></u>, MinSeok Jung<sup>&#42;</sup>, Gilhan Park, Tae-Young Kim, Cheol-Ho Cho, Woojin Jun, Jae-Pil Heo </td>
 </tr>
