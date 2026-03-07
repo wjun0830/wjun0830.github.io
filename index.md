@@ -12,7 +12,8 @@ order: 1
 Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
 I am a member of <a href="[https://sites.google.com/site/vclabskku/intro?authuser=0](https://sites.google.com/site/vclabskku/intro?authuser=0)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="[https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ](https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
 My research goal is to build holistic video understanding AI for real-world environments.
-Specifically, my research centers on representation learning for videos, especially in settings involving multimodal ambiguity, temporal complexity, and weak supervision. By combining object-centric learning, video-language modeling, and robust learning under limited supervision, I aim to build practical and transferable foundations for next-generation video AI.
+Specifically, my research centers on representation learning for videos, especially in settings involving multimodal ambiguity, temporal complexity, and weak supervision. 
+By combining video-language modeling, object-centric learning, and other learning strategies, I aim to build practical and transferable foundations for next-generation video AI.
 
 
 
