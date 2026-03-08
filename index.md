@@ -92,7 +92,7 @@ More specifically, my work spans object-centric learning, vision-language alignm
 <td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
 </tr>
 
-<tr>me
+<tr>
 <th scope="row"> NeurIPS 2025 </th>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
