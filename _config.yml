@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "WonJun Moon"
   avatar           : "/assets/images/1.png"
-  bio              : "Hello. I’m WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea. I am a member of VCLAB advised by Prof. Jae-Pil Heo."
-  location         : "Suwon, South Korea"
+  bio              : "Hello. I’m WonJun Moon, a PostDoc researcher at KAIST, South Korea."
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"

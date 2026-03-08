@@ -9,13 +9,13 @@ order: 1
 ---
 
 
-Hello. I'm WonJun Moon, a Ph.D. student at Sungkyunkwan university, South Korea.
-I am a member of <a href="[https://sites.google.com/site/vclabskku/intro?authuser=0](https://sites.google.com/site/vclabskku/intro?authuser=0)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Visual Computing LABoratory</span></a> advised by Prof. <a href="[https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ](https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
-My research goal is to build holistic video understanding AI for real-world environments.
-Specifically, my research centers on representation learning for videos, especially in settings involving multimodal ambiguity, temporal complexity, and weak supervision. 
-By combining video-language modeling, object-centric learning, and other learning strategies, I aim to build practical and transferable foundations for next-generation video AI.
+Hello. I’m WonJun Moon, a postdoctoral researcher at KAIST, South Korea.
+I received my Ph.D. from Sungkyunkwan University under the supervision of Prof. <a href="[https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ](https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
+Currently, I am a member of the Computer Vision Lab(https://cvlab.kaist.ac.kr/) advised by Prof. Seungryong Kim.
 
-
+My research goal is to build scalable multimodal video understanding AI for real-world environments.
+To this end, my research centers on video representation learning, with a particular emphasis on robust perception and representation learning. 
+More specifically, my work spans object-centric learning, vision-language alignment, temporal modeling, and learning with limited supervision, with the goal of making video AI more reliable, data-efficient, and adaptable to realistic scenarios.
 
 <!-- ## News -->
 <!-- * (2024. 01) 2023 President's List, Sungkyunkwan University.
@@ -91,7 +91,7 @@ By combining video-language modeling, object-centric learning, and other learnin
 <td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
 </tr>
 
-<tr>
+<tr>me
 <th scope="row"> NeurIPS 2025 </th>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
