@@ -11,7 +11,8 @@ order: 1
 
 Hello. I’m WonJun Moon, a postdoctoral researcher at KAIST, South Korea.
 I received my Ph.D. from Sungkyunkwan University under the supervision of Prof. <a href="[https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ](https://scholar.google.com/citations?hl=ko&user=VXyJ_ssAAAAJ)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
-Currently, I am a member of the Computer Vision Lab(https://cvlab.kaist.ac.kr/) advised by Prof. Seungryong Kim.
+Currently, I am a member of the 
+<a href="https://cvlab.kaist.ac.kr/" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Computer Vision Lab</span></a> advised by Prof. Seungryong Kim.
 
 My research goal is to build scalable multimodal video understanding AI for real-world environments.
 To this end, my research centers on video representation learning, with a particular emphasis on robust perception and representation learning. 
