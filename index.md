@@ -52,9 +52,9 @@ More specifically, my work spans object-centric learning, vision-language alignm
 <th scope="row"> CVPR 2026 </th>
 <td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
 <br> 
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://arxiv.org/abs/2603.22758" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<a href="https://github.com/wjun0830/SlotCurri" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
@@ -64,8 +64,8 @@ More specifically, my work spans object-centric learning, vision-language alignm
 <td> Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
 <br> 
 <a href="https://arxiv.org/abs/2512.02487" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<a href="https://github.com/Jyerim/3D-SLIM" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> Yerim Jeon, Miso Lee, <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
@@ -74,9 +74,9 @@ More specifically, my work spans object-centric learning, vision-language alignm
 <th scope="row"> CVPR 2026 </th>
 <td> Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation
 <br> 
-<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
-<a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
+<a href="https://arxiv.org/abs/2603.23030" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<a href="https://github.com/2btlFe/GLA-CLIP" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
 <td> ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
