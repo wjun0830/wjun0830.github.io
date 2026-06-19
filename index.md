@@ -47,18 +47,19 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 <!-- <tr>
 <th scope="row"> Venue </th>
+<td> Authors </td>
 <td> Title
 <br> 
 <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
 </tr> -->
 
 
 <tr>
 <th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
+<td> <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Selective Synergistic Learning for Video Object-Centric Learning
 <br> 
 <a href="https://arxiv.org/abs/2606.15527v1" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -66,155 +67,155 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <a href="https://github.com/wjun0830/SSync" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 <a href="https://wjun0830.github.io/SSync/" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Project] </span></a>
 </td>
-<td> <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<td> <b><u>WonJun Moon</u></b>, Hyun Seok Seong, Jae-Pil Heo </td>
 <td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
 <br> 
 <a href="https://arxiv.org/abs/2603.22758" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <a href="https://github.com/wjun0830/SlotCurri" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<td> Yerim Jeon, Miso Lee, <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
 <br> 
 <a href="https://arxiv.org/abs/2512.02487" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <a href="https://github.com/Jyerim/3D-SLIM" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Yerim Jeon, Miso Lee, <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<td> ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2603.23030" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <a href="https://github.com/2btlFe/GLA-CLIP" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ICLR 2026 </th>
+<td> Hyun Seok Seong<sup>&#42;</sup>, <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Jae-Pil Heo </td>
 <td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
 <br> 
 <a href="https://arxiv.org/abs/2602.03390" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://openreview.net/forum?id=bWoT6Z21rH&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <a href="https://github.com/hynnsk/SRL" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Hyun Seok Seong<sup>&#42;</sup>, <u>WonJun Moon<sup>&#42;</sup></u>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2025 </th>
+<td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, MinSeok Jung<sup>&#42;</sup>, Gilhan Park, Tae-Young Kim, Cheol-Ho Cho, Woojin Jun, Jae-Pil Heo </td>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
 <a href="https://arxiv.org/abs/2510.27432" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://openreview.net/attachment?id=Wlpf0Vg4yU&name=pdf" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <a href="https://github.com/admins97/MSC_PRVR" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> <u>WonJun Moon<sup>&#42;</sup></u>, MinSeok Jung<sup>&#42;</sup>, Gilhan Park, Tae-Young Kim, Cheol-Ho Cho, Woojin Jun, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
+<td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Hyun Seok Seong<sup>&#42;</sup>, Jae-Pil Heo </td>
 <td> Selective Contrastive Learning for Weakly Supervised Affordance Grounding
 <br> 
 <a href="https://arxiv.org/abs/2508.07877" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <a href="https://github.com/hynnsk/SelectiveCL" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> <u>WonJun Moon<sup>&#42;</sup></u>, Hyun Seok Seong<sup>&#42;</sup>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
+<td> <b><u>WonJun Moon</u></b>, Cheol-Ho Cho, Woojin Jun, Minho Shim, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Jae-Pil Heo </td>
 <td> Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval
 <br> 
 <a href="https://arxiv.org/abs/2504.13035" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
-<td> <u>WonJun Moon</u>, Cheol-Ho Cho, Woojin Jun, Minho Shim, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> CVPR 2025 (<b>oral</b>)</th>
+<td> SuBeen Lee, <b><u>WonJun Moon</u></b>, Hyun Seok Seong, Jae-Pil Heo </td>
 <td> Temporal Alignment-Free Video Matching for Few-shot Action Recognition
 <br> 
 <a href="https://arxiv.org/abs/2504.05956" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Temporal_Alignment-Free_Video_Matching_for_Few-shot_Action_Recognition_CVPR_2025_paper.html" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <a href="https://github.com/leesb7426/TEAM" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> SuBeen Lee, <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
+<td> Cheol-Ho Cho, <b><u>WonJun Moon</u></b>, Woojin Jun, MinSeok Jung, Jae-Pil Heo</td>
 <td> Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval
 <br> 
 <a href="https://www.arxiv.org/abs/2506.07471" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <!-- <a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
-<td> Cheol-Ho Cho, <u>WonJun Moon</u>, Woojin Jun, MinSeok Jung, Jae-Pil Heo</td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
+<td> Woojin Jun, <b><u>WonJun Moon</u></b>, Cheol-Ho Cho, MinSeok Jung, Jae-Pil Heo</td>
 <td> Bridging the Semantic Granularity Gap Between Text and Frame Representations for Partially Relevant Video Retrieval
 <br> 
 <!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32437" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <!-- <a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
-<td> Woojin Jun, <u>WonJun Moon</u>, Cheol-Ho Cho, MinSeok Jung, Jae-Pil Heo</td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> TPAMI 2024 </th>
+<td> SuBeen Lee, <b><u>WonJun Moon</u></b>, Hyun Seok Seong, Jae-Pil Heo </td>
 <td> Task-oriented channel attention for fine-grained few-shot classification
 <br> 
 <a href="https://arxiv.org/abs/2308.00093" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://ieeexplore.ieee.org/abstract/document/10763467" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <!-- <a href="https://github.com/leesb7426/TEAM" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> -->
 </td>
-<td> SuBeen Lee, <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
 
 
 <tr>
 <th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
+<td> Hyun Seok Seong, <b><u>WonJun Moon</u></b>, SuBeen Lee, Jae-Pil Heo </td>
 <td> Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2407.12463" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <a href="https://github.com/hynnsk/PPAP" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
+<td> Gilhan Park, <b><u>WonJun Moon</u></b>, SuBeen Lee, Tae-Young Kim, Jae-Pil Heo </td>
 <td> Mitigating Background Shift in Class-Incremental Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2407.11859" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
 <a href="https://github.com/RoadoneP/ECCV2024_MBS" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Gilhan Park, <u>WonJun Moon</u>, SuBeen Lee, Tae-Young Kim, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> Pattern Recognition 2025 </th>
+<td> <b><u>WonJun Moon</u></b>, Sangeek Hyun, SuBeen Lee, Jae-Pil Heo </td>
 <td> Correlation-Guided Query-Dependency Calibration for Video Temporal Grounding
 <br> 
 <a href="https://arxiv.org/abs/2311.08835" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -222,22 +223,22 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <a href="https://github.com/wjun0830/CGDETR" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> 
 <!-- <a href="https://www.youtube.com/watch?v=df-gtJcZEw8&t=301s" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Video] </span></a>  -->
 </td>
-<td> <u>WonJun Moon</u>, Sangeek Hyun, SuBeen Lee, Jae-Pil Heo </td> 
 </tr>
 
 <tr>
 <th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> AAAI 2024 </th>
+<td> Seunggu Kang, <b><u>WonJun Moon</u></b>, Euiyeon Kim, Jae-Pil Heo </td>
 <td> VLCounter: Text-aware Visual Representation for Zero-Shot Object Counting
 <br> 
 <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28050" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <a href="https://github.com/Seunggu0305/VLCounter" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Seunggu Kang, <u>WonJun Moon</u>, Euiyeon Kim, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
+<td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Sangeek Hyun<sup>&#42;</sup>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td>
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
 <br> 
 <a href="https://arxiv.org/abs/2303.13874" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -245,25 +246,24 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <a href="https://github.com/wjun0830/QD-DETR" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a> 
 <a href="https://www.youtube.com/watch?v=df-gtJcZEw8&t=301s" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Video] </span></a> 
 </td>
-<td> <u>WonJun Moon<sup>&#42;</sup></u>, Sangeek Hyun<sup>&#42;</sup>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td> 
 </tr>
 
 
 <tr>
 <th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
+<td> Hyun Seok Seong, <b><u>WonJun Moon</u></b>, SuBeen Lee, Jae-Pil Heo </td>
 <td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2303.15014" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Seong_Leveraging_Hidden_Positives_for_Unsupervised_Semantic_Segmentation_CVPR_2023_paper.pdf" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a>
 <a href="https://github.com/hynnsk/HP" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 </td>
-<td> Hyun Seok Seong, <u>WonJun Moon</u>, SuBeen Lee, Jae-Pil Heo </td>
 </tr>
 
 
 <tr>
 <th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> AAAI 2023 (<b>oral</b>)</th>
-
+<td> <b><u>WonJun Moon</u></b>, Hyun Seok Seong, Jae-Pil Heo </td>
 <td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition 
 <br> 
 <a href="https://arxiv.org/abs/2211.13471" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -271,11 +271,11 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <a href="https://github.com/wjun0830/MOVE" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 <a href="https://www.youtube.com/watch?v=SbXsj_pc_-c&t=301s" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Video] </span></a> 
 </td>
-<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> ECCV 2022 </th>
+<td> <b><u>WonJun Moon</u></b>, Ji-Hwan Kim, Jae-Pil Heo </td>
 <td> Tailoring Self-Supervision for Supervised Learning 
 <br> 
 <a href="https://arxiv.org/abs/2207.10023" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -283,11 +283,11 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <a href="https://github.com/wjun0830/Localizable-Rotation" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 <a href="https://www.youtube.com/watch?v=H4fX0KQfp2s" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Video] </span></a> 
 </td>
-<td> <u>WonJun Moon</u>, Ji-Hwan Kim, Jae-Pil Heo </td>
 </tr>
 
 <tr>
 <th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> ECCV 2022 </th>
+<td> <b><u>WonJun Moon</u></b>, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo </td>
 <td> Difficulty-Aware Simulator for Open Set Recognition 
 <br>
 <a href="https://arxiv.org/abs/2207.10024" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -295,19 +295,18 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <a href="https://github.com/wjun0830/Difficulty-Aware-Simulator" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
 <a href="https://www.youtube.com/watch?v=0_q9wxDIYbE&t=197s" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Video]</span> </a> 
 </td>
-<td> <u>WonJun Moon</u>, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo </td>
 </tr>
 
 
 <tr>
 <th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> CVPR 2022 (<b>oral</b>) </th>
+<td> SuBeen Lee, <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Task Discrepancy Maximization for Fine-grained Few-Shot Classification 
 <br> 
 <a href="https://arxiv.org/abs/2207.01376" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Task_Discrepancy_Maximization_for_Fine-Grained_Few-Shot_Classification_CVPR_2022_paper.html" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span></a>
 <a href="https://github.com/leesb7426/CVPR2022-Task-Discrepancy-Maximization-for-Fine-grained-Few-Shot-Classification" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code]</span> </a>
 </td>
-<td> SuBeen Lee, <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 </table>
 
