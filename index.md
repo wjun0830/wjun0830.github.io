@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "About"
+title: "Jun (WonJun Moon)"
 order: 1
 # toc: true
 # toc_sticky: true
@@ -10,9 +10,9 @@ order: 1
 
 
 Hello. I’m WonJun Moon, a postdoctoral researcher at KAIST, South Korea.
-I received my Ph.D. from Sungkyunkwan University under the supervision of Prof. <a href="[https://scholar.google.com/citations?&user=VXyJ_ssAAAAJ](https://scholar.google.com/citations?&user=VXyJ_ssAAAAJ)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
+I received my Ph.D. from Sungkyunkwan University under the supervision of Prof. <a href="https://scholar.google.com/citations?&user=VXyJ_ssAAAAJ" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Jae-Pil Heo</span></a>.
 Currently, I am a member of the 
-<a href="https://cvlab.kaist.ac.kr/" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Computer Vision Lab</span></a> advised by <a href="[https://scholar.google.com/citations?user=cIK1hS8AAAAJ&oi=ao](https://scholar.google.com/citations?user=cIK1hS8AAAAJ&oi=ao)" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Prof. Seungryong Kim</span></a>.
+<a href="https://cvlab.kaist.ac.kr/" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Computer Vision Lab</span></a> advised by <a href="https://scholar.google.com/citations?user=cIK1hS8AAAAJ&oi=ao" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Prof. Seungryong Kim</span></a>.
 
 My research goal is to develop scalable multimodal video understanding systems deployable in real-world environments. 
 My research focuses on video/image representation learning under multimodal ambiguity, temporal complexity, and limited supervision, with applications spanning retrieval, grounding, and segmentation.
@@ -34,6 +34,15 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <p style="font-size:15px"> (&#42; &#58; equal contribution) </p>
 
 ### International
+
+<p style="font-size:13px; margin-bottom:6px;">
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:4px;vertical-align:middle;"></span> Video Object-Centric Learning (Compact visual representation / Efficiency) &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:4px;vertical-align:middle;"></span> Text-Video Retrieval &amp; Grounding &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:4px;vertical-align:middle;"></span> Semantic Segmentation &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:4px;vertical-align:middle;"></span> Vision-Language Models &amp; Multimodal &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:4px;vertical-align:middle;"></span> Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)
+</p>
+
 <table class="table table-sm table-borderless">
 
 <!-- <tr>
@@ -49,7 +58,18 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"> CVPR 2026 </th>
+<th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
+<td> Selective Synergistic Learning for Video Object-Centric Learning
+<br> 
+<a href="https://arxiv.org/abs/2606.15527" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
+<a href="https://github.com/wjun0830/SlotCurri" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+</td>
+<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+</tr>
+
+<tr>
+<th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
 <br> 
 <a href="https://arxiv.org/abs/2603.22758" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -60,7 +80,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> CVPR 2026 </th>
+<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
 <br> 
 <a href="https://arxiv.org/abs/2512.02487" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -71,7 +91,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> CVPR 2026 </th>
+<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2603.23030" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -82,7 +102,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> ICLR 2026 </th>
+<th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ICLR 2026 </th>
 <td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
 <br> 
 <a href="https://arxiv.org/abs/2602.03390" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -93,7 +113,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> NeurIPS 2025 </th>
+<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2025 </th>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
 <a href="https://arxiv.org/abs/2510.27432" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -104,7 +124,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> ICCV 2025 </th>
+<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
 <td> Selective Contrastive Learning for Weakly Supervised Affordance Grounding
 <br> 
 <a href="https://arxiv.org/abs/2508.07877" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -115,7 +135,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> ICCV 2025 </th>
+<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
 <td> Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval
 <br> 
 <a href="https://arxiv.org/abs/2504.13035" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -126,7 +146,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> CVPR 2025 (<b>oral</b>)</th>
+<th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> CVPR 2025 (<b>oral</b>)</th>
 <td> Temporal Alignment-Free Video Matching for Few-shot Action Recognition
 <br> 
 <a href="https://arxiv.org/abs/2504.05956" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -137,7 +157,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> AAAI 2025 </th>
+<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
 <td> Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval
 <br> 
 <a href="https://www.arxiv.org/abs/2506.07471" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -148,7 +168,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> AAAI 2025 </th>
+<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
 <td> Bridging the Semantic Granularity Gap Between Text and Frame Representations for Partially Relevant Video Retrieval
 <br> 
 <!-- <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
@@ -159,7 +179,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> TPAMI 2024 </th>
+<th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> TPAMI 2024 </th>
 <td> Task-oriented channel attention for fine-grained few-shot classification
 <br> 
 <a href="https://arxiv.org/abs/2308.00093" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -171,7 +191,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"> ECCV 2024 </th>
+<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
 <td> Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2407.12463" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -182,7 +202,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> ECCV 2024 </th>
+<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
 <td> Mitigating Background Shift in Class-Incremental Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2407.11859" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -193,7 +213,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> arXiv 2024 </th>
+<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> Pattern Recognition 2025 </th>
 <td> Correlation-Guided Query-Dependency Calibration for Video Temporal Grounding
 <br> 
 <a href="https://arxiv.org/abs/2311.08835" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -205,7 +225,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> AAAI 2024 </th>
+<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> AAAI 2024 </th>
 <td> VLCounter: Text-aware Visual Representation for Zero-Shot Object Counting
 <br> 
 <a href="https://arxiv.org/abs/2312.16580" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -216,7 +236,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> CVPR 2023 </th>
+<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
 <br> 
 <a href="https://arxiv.org/abs/2303.13874" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -229,7 +249,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"> CVPR 2023 </th>
+<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
 <td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
 <br> 
 <a href="https://arxiv.org/abs/2303.15014" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -241,7 +261,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"> AAAI 2023 (<b>oral</b>)</th>
+<th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> AAAI 2023 (<b>oral</b>)</th>
 
 <td> Minority-Oriented Vicinity Expansion with Attentive Aggregation for Video Long-Tailed Recognition 
 <br> 
@@ -254,7 +274,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> ECCV 2022 </th>
+<th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> ECCV 2022 </th>
 <td> Tailoring Self-Supervision for Supervised Learning 
 <br> 
 <a href="https://arxiv.org/abs/2207.10023" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -266,7 +286,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"> ECCV 2022 </th>
+<th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> ECCV 2022 </th>
 <td> Difficulty-Aware Simulator for Open Set Recognition 
 <br>
 <a href="https://arxiv.org/abs/2207.10024" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
@@ -279,7 +299,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"> CVPR 2022 (<b>oral</b>) </th>
+<th scope="row"><span title="Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:5px;vertical-align:middle;"></span> CVPR 2022 (<b>oral</b>) </th>
 <td> Task Discrepancy Maximization for Fine-grained Few-Shot Classification 
 <br> 
 <a href="https://arxiv.org/abs/2207.01376" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
