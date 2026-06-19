@@ -61,11 +61,12 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 <th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
 <td> Selective Synergistic Learning for Video Object-Centric Learning
 <br> 
-<a href="https://arxiv.org/abs/2606.15527" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://arxiv.org/abs/2606.15527v1" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
 <!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Paper] </span> </a> -->
-<a href="https://github.com/wjun0830/SlotCurri" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+<a href="https://github.com/wjun0830/SSync" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Code] </span></a>
+<a href="https://wjun0830.github.io/SSync/" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Project] </span></a>
 </td>
-<td> <u>WonJun Moon</u>, Hyun Seok Seong, Jae-Pil Heo </td>
+<td> <u>WonJun Moon</u>, Jae-Pil Heo </td>
 </tr>
 
 <tr>
