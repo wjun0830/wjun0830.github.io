@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Jun (WonJun Moon)"
+title: "WonJun Moon"
 order: 1
 # toc: true
 # toc_sticky: true
