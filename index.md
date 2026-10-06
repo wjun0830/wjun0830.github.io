@@ -67,7 +67,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
  
 <tr>
-<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2026 </th>
+<th scope="row"><span title="Semantic Segmentation &amp; Tracking" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2026 </th>
 <td> Siyoon Jin<sup>&#42;</sup>, Dahyun Chung<sup>&#42;</sup>, Honggyu An, Sangbeom Lim, Wonjin Nam, Jaewoo Jung, <b><u>WonJun Moon</u></b>, Seungryong Kim </td>
 <td> Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence
 <br> 
