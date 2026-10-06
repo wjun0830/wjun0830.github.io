@@ -14,7 +14,7 @@ I received my Ph.D. from Sungkyunkwan University under the supervision of Prof. 
 Currently, I am a member of the 
 <a href="https://cvlab.kaist.ac.kr/" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Computer Vision Lab</span></a> advised by <a href="https://scholar.google.com/citations?user=cIK1hS8AAAAJ&oi=ao" target="_blank" rel="noopener noreferrer"><span style="color:#6AADC2">Prof. Seungryong Kim</span></a>.
 
-My research goal is to develop scalable multimodal video understanding systems deployable in real-world environments. 
+My research goal is to develop scalable multimodal embedding models and video understanding systems that bridge the gap between cutting-edge research and real-world deployment.
 My research focuses on video/image representation learning under multimodal ambiguity, temporal complexity, and limited supervision, with applications spanning retrieval, grounding, and segmentation.
 Most recently, I am dedicated to uncovering and enhancing the visual reasoning processes of Multimodal Large Language Models. 
 
@@ -36,9 +36,9 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 ### International
 
 <p style="font-size:13px; margin-bottom:6px;">
-<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:4px;vertical-align:middle;"></span> Video Object-Centric Learning (Compact visual representation / Efficiency) &ensp;
-<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:4px;vertical-align:middle;"></span> Text-Video Retrieval &amp; Grounding &ensp;
-<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:4px;vertical-align:middle;"></span> Semantic Segmentation &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:4px;vertical-align:middle;"></span> Compact Visual Representation / Efficiency (Object-Centric Representation Learning) &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:4px;vertical-align:middle;"></span> Embeddings &amp; Text-Video Retrieval &amp; Grounding &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:4px;vertical-align:middle;"></span> Semantic Segmentation &amp; Tracking &ensp;
 <span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:4px;vertical-align:middle;"></span> Vision-Language Models &amp; Multimodal &ensp;
 <span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:4px;vertical-align:middle;"></span> Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)
 </p>
@@ -56,9 +56,28 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </td>
 </tr> -->
 
+<tr>
+<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2026 </th>
+<td> Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, Minkyeong Jeon, Heeseong Shin, <b><u>WonJun Moon</u></b>, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, Sunghwan Hong </td>
+<td> Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
+<br> 
+<a href="https://arxiv.org/abs/2609.38177" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a>
+<a href="https://cvlab-kaist.github.io/Imagine3D-LLM/" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Project] </span></a>
+</td>
+</tr>
+ 
+<tr>
+<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2026 </th>
+<td> Siyoon Jin<sup>&#42;</sup>, Dahyun Chung<sup>&#42;</sup>, Honggyu An, Sangbeom Lim, Wonjin Nam, Jaewoo Jung, <b><u>WonJun Moon</u></b>, Seungryong Kim </td>
+<td> Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence
+<br> 
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Project] </span></a> -->
+</td>
+</tr>
 
 <tr>
-<th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
+<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
 <td> <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Selective Synergistic Learning for Video Object-Centric Learning
 <br> 
@@ -70,7 +89,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> <b><u>WonJun Moon</u></b>, Hyun Seok Seong, Jae-Pil Heo </td>
 <td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
 <br> 
@@ -92,7 +111,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<th scope="row"><span title="Semantic Segmentation &amp; Tracking " style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> ByeongCheol Lee, Hyun Seok Seong, Sangeek Hyun, Gilhan Park, <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation
 <br> 
@@ -103,7 +122,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Video Object-Centric Learning (Compact visual representation / Efficiency)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ICLR 2026 </th>
+<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ICLR 2026 </th>
 <td> Hyun Seok Seong<sup>&#42;</sup>, <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Jae-Pil Heo </td>
 <td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
 <br> 
@@ -114,7 +133,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2025 </th>
+<th scope="row"><span title="Embeddings &amp; Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2025 </th>
 <td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, MinSeok Jung<sup>&#42;</sup>, Gilhan Park, Tae-Young Kim, Cheol-Ho Cho, Woojin Jun, Jae-Pil Heo </td>
 <td> Mitigating Semantic Collapse in Partially Relevant Video Retrieval
 <br> 
@@ -136,7 +155,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
+<th scope="row"><span title="Embeddings &amp; Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
 <td> <b><u>WonJun Moon</u></b>, Cheol-Ho Cho, Woojin Jun, Minho Shim, Taeoh Kim, Inwoong Lee, Dongyoon Wee, Jae-Pil Heo </td>
 <td> Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval
 <br> 
@@ -158,7 +177,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
+<th scope="row"><span title="Embeddings &amp; Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
 <td> Cheol-Ho Cho, <b><u>WonJun Moon</u></b>, Woojin Jun, MinSeok Jung, Jae-Pil Heo</td>
 <td> Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval
 <br> 
@@ -169,7 +188,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
+<th scope="row"><span title="Embeddings &amp; Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> AAAI 2025 </th>
 <td> Woojin Jun, <b><u>WonJun Moon</u></b>, Cheol-Ho Cho, MinSeok Jung, Jae-Pil Heo</td>
 <td> Bridging the Semantic Granularity Gap Between Text and Frame Representations for Partially Relevant Video Retrieval
 <br> 
@@ -192,7 +211,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
+<th scope="row"><span title="Semantic Segmentation &amp; Tracking " style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
 <td> Hyun Seok Seong, <b><u>WonJun Moon</u></b>, SuBeen Lee, Jae-Pil Heo </td>
 <td> Progressive Proxy Anchor Propagation for Unsupervised Semantic Segmentation
 <br> 
@@ -203,7 +222,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
+<th scope="row"><span title="Semantic Segmentation &amp; Tracking " style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> ECCV 2024 </th>
 <td> Gilhan Park, <b><u>WonJun Moon</u></b>, SuBeen Lee, Tae-Young Kim, Jae-Pil Heo </td>
 <td> Mitigating Background Shift in Class-Incremental Semantic Segmentation
 <br> 
@@ -214,7 +233,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> Pattern Recognition 2025 </th>
+<th scope="row"><span title="Embeddings &amp; Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> Pattern Recognition 2025 </th>
 <td> <b><u>WonJun Moon</u></b>, Sangeek Hyun, SuBeen Lee, Jae-Pil Heo </td>
 <td> Correlation-Guided Query-Dependency Calibration for Video Temporal Grounding
 <br> 
@@ -237,7 +256,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
+<th scope="row"><span title="Embeddings &amp; Text-Video Retrieval &amp; Grounding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
 <td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Sangeek Hyun<sup>&#42;</sup>, Sanguk Park, Dongchan Park, Jae-Pil Heo </td>
 <td> Query-Dependent Video Representation for Moment Retrieval and Highlight Detection
 <br> 
@@ -250,7 +269,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 
 
 <tr>
-<th scope="row"><span title="Semantic Segmentation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
+<th scope="row"><span title="Semantic Segmentation &amp; Tracking " style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:5px;vertical-align:middle;"></span> CVPR 2023 </th>
 <td> Hyun Seok Seong, <b><u>WonJun Moon</u></b>, SuBeen Lee, Jae-Pil Heo </td>
 <td> Leveraging Hidden Positives for Unsupervised Semantic Segmentation
 <br> 
