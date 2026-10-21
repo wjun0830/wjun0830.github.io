@@ -36,10 +36,11 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 ### International
 
 <p style="font-size:13px; margin-bottom:6px;">
-<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:4px;vertical-align:middle;"></span> Compact Visual Representation / Efficiency (Object-Centric Representation Learning) &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:4px;vertical-align:middle;"></span> Compact &amp; Predictive Visual Representation &ensp;
 <span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#ED7D31;margin-right:4px;vertical-align:middle;"></span> Embeddings &amp; Text-Video Retrieval &amp; Grounding &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#A66A3F;margin-right:4px;vertical-align:middle;"></span> VLA &amp; Autonomous Driving &amp; Robotics &ensp;
 <span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#70AD47;margin-right:4px;vertical-align:middle;"></span> Semantic Segmentation &amp; Tracking &ensp;
-<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:4px;vertical-align:middle;"></span> Vision-Language Models &amp; Multimodal &ensp;
+<span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:4px;vertical-align:middle;"></span> Scene Understanding &ensp;
 <span style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#E74C3C;margin-right:4px;vertical-align:middle;"></span> Robustness (Few-Shot &amp; OOD &amp; Long-tailed Recognition)
 </p>
 
@@ -57,7 +58,18 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr> -->
 
 <tr>
-<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2026 </th>
+<th scope="row"><span title="VLA &amp; Autonomous Driving &amp; Robotics" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> NeurIPSW 2026 </th>
+<td> Seongchan Kim, Soowon Son, Sangoh Kim, Hyunah Ko, Eunbeen Hong, Hyunkoo Lee, Sanghyun Lee, <b><u>WonJun Moon</u></b>, Kihong Kim, Dongyeon Son, Woongchan Nam, Seungryong Kim </td>
+<td> One Loss Is Not Enough: Cross-Objective Structured Pruning for Reasoning Vision–Language–Action Models
+<br> 
+<!-- <a href="https://arxiv.org/abs/2609.38177" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Arxiv] </span></a> -->
+<!-- <a href="" target="_blank" rel="noopener noreferrer"> <span style="color:blue"> [Project] </span></a> -->
+</td>
+</tr>
+ 
+
+<tr>
+<th scope="row"><span title="Scene Understanding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> NeurIPS 2026 </th>
 <td> Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, Minkyeong Jeon, Heeseong Shin, <b><u>WonJun Moon</u></b>, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, Sunghwan Hong </td>
 <td> Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
 <br> 
@@ -77,7 +89,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
+<th scope="row"><span title="Compact &amp; Predictive Visual Representation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ECCV 2026 </th>
 <td> <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Selective Synergistic Learning for Video Object-Centric Learning
 <br> 
@@ -89,7 +101,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<th scope="row"><span title="Compact &amp; Predictive Visual Representation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> <b><u>WonJun Moon</u></b>, Hyun Seok Seong, Jae-Pil Heo </td>
 <td> Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
 <br> 
@@ -100,7 +112,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
+<th scope="row"><span title="Scene Understanding" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> CVPR 2026 </th>
 <td> Yerim Jeon, Miso Lee, <b><u>WonJun Moon</u></b>, Jae-Pil Heo </td>
 <td> Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding
 <br> 
@@ -122,7 +134,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Compact Visual Representation / Efficiency (Object-Centric Representation Learning)" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ICLR 2026 </th>
+<th scope="row"><span title="Compact &amp; Predictive Visual Representation" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#4472C4;margin-right:5px;vertical-align:middle;"></span> ICLR 2026 </th>
 <td> Hyun Seok Seong<sup>&#42;</sup>, <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Jae-Pil Heo </td>
 <td> From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
 <br> 
@@ -144,7 +156,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="Vision-Language Models &amp; Multimodal" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
+<th scope="row"><span title="VLA &amp; Autonomous Driving &amp; Robotics" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
 <td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Hyun Seok Seong<sup>&#42;</sup>, Jae-Pil Heo </td>
 <td> Selective Contrastive Learning for Weakly Supervised Affordance Grounding
 <br> 
