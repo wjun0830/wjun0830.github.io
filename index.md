@@ -58,7 +58,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr> -->
 
 <tr>
-<th scope="row"><span title="VLA &amp; Autonomous Driving &amp; Robotics" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> NeurIPSW 2026 </th>
+<th scope="row"><span title="VLA &amp; Autonomous Driving &amp; Robotics" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#A66A3F;margin-right:5px;vertical-align:middle;"></span> NeurIPSW 2026 </th>
 <td> Seongchan Kim, Soowon Son, Sangoh Kim, Hyunah Ko, Eunbeen Hong, Hyunkoo Lee, Sanghyun Lee, <b><u>WonJun Moon</u></b>, Kihong Kim, Dongyeon Son, Woongchan Nam, Seungryong Kim </td>
 <td> One Loss Is Not Enough: Cross-Objective Structured Pruning for Reasoning Vision–Language–Action Models
 <br> 
@@ -156,7 +156,7 @@ Most recently, I am dedicated to uncovering and enhancing the visual reasoning p
 </tr>
 
 <tr>
-<th scope="row"><span title="VLA &amp; Autonomous Driving &amp; Robotics" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#9966CC;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
+<th scope="row"><span title="VLA &amp; Autonomous Driving &amp; Robotics" style="display:inline-block;width:9px;height:9px;border-radius:50%;background:#A66A3F;margin-right:5px;vertical-align:middle;"></span> ICCV 2025 </th>
 <td> <b><u>WonJun Moon<sup>&#42;</sup></u></b>, Hyun Seok Seong<sup>&#42;</sup>, Jae-Pil Heo </td>
 <td> Selective Contrastive Learning for Weakly Supervised Affordance Grounding
 <br> 
